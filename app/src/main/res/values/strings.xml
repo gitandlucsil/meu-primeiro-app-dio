@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">Este texto deve ser traduzido!</string>
+    <string name="hello_world">Este texto também!</string>
 </resources>
